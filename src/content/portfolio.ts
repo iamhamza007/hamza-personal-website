@@ -61,9 +61,9 @@ export const identities = [
 ];
 
 export const featuredStats = [
-  { value: "13", label: "Started coding" },
-  { value: "5+", label: "Brands and tools built" },
-  { value: "3", label: "Core lanes: software, trading, business" },
+  { value: "6+", label: "Years building digital products" },
+  { value: "500K+", label: "Combined user reach" },
+  { value: "10+", label: "Tech stacks mastered" },
 ];
 
 export const aboutParagraphs = [
